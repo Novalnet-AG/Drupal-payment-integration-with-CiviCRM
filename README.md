@@ -43,7 +43,7 @@ For detailed documentation and other technical inquiries, please send us an emai
 
 ## Installation
 
-Get the payment module & detailed documentation by [contacting us](https://www.novalnet.de/kontakt/sales) and perfom the below actions to install CiviCRM within Drupal:
+Get the payment module & detailed documentation by [contacting us](https://www.novalnet.de/kontakt/sales) and perfom the below actions to install CiviCRM plugin within Drupal:
 
 1. Unzip the novalnet includes package
 2. Copy the "CRM"  directory 
