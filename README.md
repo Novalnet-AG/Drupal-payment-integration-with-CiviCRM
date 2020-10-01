@@ -1,4 +1,4 @@
-# Novalnet payment plugin for CiviCRM on Drupal
+# Novalnet payment plugin for CiviCRM on the Drupal
 
 The CiviCRM payment plugin by Novalnet for Drupal enables secure integration of payments and payment services for all CiviCRM shop systems running in Drupal. Novalnet’s CiviCRM payment plugin for Drupal helps merchants to automate payment processing from checkout till collection.
 
