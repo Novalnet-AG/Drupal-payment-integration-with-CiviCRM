@@ -1,12 +1,12 @@
 # Novalnet payment plugin for CiviCRM on Drupal
 
-The CiviCRM payment plugin by Novalnet for Drupal enables secure integration of payments and payment services for all CiviCRM shop systems running in Drupal. Novalnet’s CiviCRM payment plugin for Drupal helps merchants to automate payment processing from checkout till collection.
+The CiviCRM plugin by Novalnet for Drupal enables secure payment integration services for all CiviCRM shop systems running in Drupal. Novalnet’s CiviCRM  plugin for Drupal helps merchants to automate payment processing from checkout till collection.
 
 
 ## Integration Requirements
 
 The CiviCRM plugin for Drupal is available in EN & DE languages and requires curl installation in your system. For installation help please visit  http://curl.haxx.se/docs/install.html. Drupal version 7 or higher is required for our payment plugin CiviCRM versions 4.4.4 and lower.
-Novalnet merchant account is required for processing all international and local payments in Drupal. You can get yours here: https://www.novalnet.de/kontakt/sales
+Novalnet merchant account is required for processing all international and local payments in Drupal. You can get yours here: https://www.novalnet.de/kontakt/sales.
 
 
 ## Key Features
@@ -22,7 +22,7 @@ Novalnet merchant account is required for processing all international and local
 - Susbscription Management
 - Responsive templates
 
-For detailed documentation and other technical inquiries, please send us an email at sales@novalnet.de
+For detailed documentation and other technical inquiries, please send us an email at sales@novalnet.de.
 
 
 ## Integrated Payment Methods 
@@ -30,7 +30,8 @@ For detailed documentation and other technical inquiries, please send us an emai
 - SEPA Direct Debit
 - Direct Debit (Germany, Austria)
 - Credit Card (3DSecure and non 3DSecure)
-- Amex, JCB, CUP. Debitcard: Maestro                           
+- Credit Card: Amex, JCB, CUP 
+- Debitcard: Maestro                           
 - Prepayment
 - Invoice
 - Online Transfer
@@ -43,11 +44,11 @@ For detailed documentation and other technical inquiries, please send us an emai
 
 ## Installation
 
-Get the payment module & detailed documentation by [contacting us](https://www.novalnet.de/kontakt/sales) and perfom the below actions to install CiviCRM plugin within Drupal:
+Get the payment module & detailed documentation by [contacting us](https://www.novalnet.de/kontakt/sales) and perform the below actions to install CiviCRM plugin within Drupal:
 
 1. Unzip the novalnet includes package
-2. Copy the "CRM"  directory 
-3. Paste it under the parh */sites/all/modules/civicrm*
+2. Copy the “CRM“  directory 
+3. Place it under the parh */sites/all/modules/civicrm*
 
 
 ## License
